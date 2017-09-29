@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HW/ViewController.swift"
+            timestampString = "525863644.021548"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "48"
+            endingLineNumber = "48">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HW/ViewController.swift"
+            timestampString = "525861552.496536"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "5"
+            endingLineNumber = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HW.ViewController.__deallocating_deinit"
+                  moduleName = "HW"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ict/Documents/mix/HW/HW/ViewController.swift"
+                  timestampString = "525862675.455037"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HW.ViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; HW.ViewController"
+                  moduleName = "HW"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ict/Documents/mix/HW/HW/ViewController.swift"
+                  timestampString = "525862675.456919"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "57">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HW.ViewController.__allocating_init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; HW.ViewController"
+                  moduleName = "HW"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ict/Documents/mix/HW/HW/ViewController.swift"
+                  timestampString = "525862675.458312"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "23">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HW.ViewController.__allocating_init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;HW.ViewController&gt;"
+                  moduleName = "HW"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ict/Documents/mix/HW/HW/ViewController.swift"
+                  timestampString = "525862675.460163"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HW.ViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;HW.ViewController&gt;"
+                  moduleName = "HW"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ict/Documents/mix/HW/HW/ViewController.swift"
+                  timestampString = "525862675.461975"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "19">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HW/ViewController.swift"
+            timestampString = "525862642.0153"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "sec"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HW.ViewController.__deallocating_deinit"
+                  moduleName = "HW"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ict/Documents/mix/HW/HW/ViewController.swift"
+                  timestampString = "525862675.46675"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HW.ViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; HW.ViewController"
+                  moduleName = "HW"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ict/Documents/mix/HW/HW/ViewController.swift"
+                  timestampString = "525862675.46811"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "57">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HW.ViewController.__allocating_init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; HW.ViewController"
+                  moduleName = "HW"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ict/Documents/mix/HW/HW/ViewController.swift"
+                  timestampString = "525862675.469395"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "23">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HW.ViewController.__allocating_init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;HW.ViewController&gt;"
+                  moduleName = "HW"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ict/Documents/mix/HW/HW/ViewController.swift"
+                  timestampString = "525862675.470779"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HW.ViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;HW.ViewController&gt;"
+                  moduleName = "HW"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ict/Documents/mix/HW/HW/ViewController.swift"
+                  timestampString = "525862675.472071"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "19">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
